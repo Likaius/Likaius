@@ -1,9 +1,9 @@
+<h2 align="center"> Hello World! Welcome to my Github! </h2>
+
 "Cypherpunks write code. We know that someone has to write software to defend privacy, and we're going to write it."
 — Eric Hughes
 The Cypherpunk's Manifesto, 1993
 <hr>
-
-<!-- <h2 align="center"> Hello World! Welcome to my Github! </h2> -->
 
 <div>
  
